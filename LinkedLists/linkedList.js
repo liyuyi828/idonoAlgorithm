@@ -75,23 +75,23 @@ function LinkedListForEach(list, callback) {
   }  
 }
 
-let list = new LinkedList()
-list.addToTail(1)
-list.addToTail(2)
-list.addToTail(3)
-LinkedListForEach(list, (node) => console.log(node.value)) // 1, 2, 3
-console.log(list.contains(1)) // true
-console.log(list.contains(4)) // false
-console.log(list.indexOf(2)) // 1
-console.log(list.indexOf(4)) // -1
-list.addToHead(100)
-LinkedListForEach(list, (node) => console.log(node.value)) // 100, 1, 2, 3
-console.log(list.contains(100)) // true
-console.log(list.contains(2)) // true
-console.log(list.contains(4)) // false
-console.log(list.indexOf(100)) // 0
-console.log(list.indexOf(2)) // 2
-console.log(list.indexOf(4)) // -1
+// let list = new LinkedList()
+// list.addToTail(1)
+// list.addToTail(2)
+// list.addToTail(3)
+// LinkedListForEach(list, (node) => console.log(node.value)) // 1, 2, 3
+// console.log(list.contains(1)) // true
+// console.log(list.contains(4)) // false
+// console.log(list.indexOf(2)) // 1
+// console.log(list.indexOf(4)) // -1
+// list.addToHead(100)
+// LinkedListForEach(list, (node) => console.log(node.value)) // 100, 1, 2, 3
+// console.log(list.contains(100)) // true
+// console.log(list.contains(2)) // true
+// console.log(list.contains(4)) // false
+// console.log(list.indexOf(100)) // 0
+// console.log(list.indexOf(2)) // 2
+// console.log(list.indexOf(4)) // -1
 
 module.exports = {
   LinkedList,
