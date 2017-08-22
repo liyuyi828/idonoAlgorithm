@@ -1,4 +1,4 @@
-# idonoAlgorithm #
+# idono-Algorithm #
 
 Practice Algorithm and Data Structure in JavaScript
 
