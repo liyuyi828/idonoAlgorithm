@@ -10,11 +10,14 @@ Analysis:
 */
 
 function isPermutation(s1, s2) {
-  if (s1 === s2) {
+  if (s1 === s2 || s1.length !== s2.length) {
     return false
   }
   // a super short method would be
   return s1.split('').sort().join('') === s2.split('').sort().join('')
   // However, this will not the be the more efficient solution, as sort() will take big-O of NLogN
-  // Can you think of a more efficient way to do this? 
+  // Can you think of a more efficient way to do this?
 }
+
+console.log(isPermutation('abcdefg', 'abcdefg'))
+console.log(isPermutation('abcdefg', 'gfedcba'))
