@@ -32,4 +32,4 @@ function swapHelper(a, b, arr) {
   arr[b] = temp; 
 }
 
-console.log(bubbleSort([7, 1, 10, 3, 2, 4, 5, 6, 8, 9]))
+// console.log(bubbleSort([7, 1, 10, 3, 2, 4, 5, 6, 8, 9]))
