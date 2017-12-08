@@ -1,12 +1,10 @@
 /* Source: LeetCode (https://leetcode.com/problems/3sum/description/)
-
 Given an array of integers, are there three elements a, b, c in the array that a + b + c = 0? Find all unique triplets in the array that adds to zero
 
 Note: the solution set must not contains duplicates
 
-
+Note by Yuyi: depends on how you implement this, the order of how you return the triples should not matter
 */
-
 
 function threeSum (nums) {
   var arr = nums.slice().sort((a, b) => a - b)
