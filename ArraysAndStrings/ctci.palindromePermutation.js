@@ -31,11 +31,12 @@ function palindromPermucation(str) {
       }
     }
   }
+  // Note: the oddCharCount can also be updated on the previous for-loop
   letter.forEach((value) => {
     if (value % 2 !== 0) {
       oddCharCount++
     }
-  })
+  }) 
   return oddCharCount <= 1
 }
 console.log(palindromPermucation('Tact Coa'))
