@@ -22,11 +22,11 @@ Space Compexity: O(1)
 Possible Edge or Corner Case: space, special character
 */
 
-console.log(isUnique('abcedfg')) //true
-console.log(isUnique('abc@123')) //true
-console.log(isUnique('abc def')) // true
-console.log(isUnique('abc def ')) //false, but please ask if space counts
-console.log(isUnique('abcdefa')) // false
+// console.log(isUnique('abcedfg')) //true
+// console.log(isUnique('abc@123')) //true
+// console.log(isUnique('abc def')) // true
+// console.log(isUnique('abc def ')) //false, but please ask if space counts
+// console.log(isUnique('abcdefa')) // false
 
 //Just for fun, using ES6 map
 function isUniqueMap(str) {
