@@ -1,0 +1,1850 @@
+Interview Note
+
+Tell us what make you unique, or say something that catch our eyes? 
+Your message to the hiring manager? 
+
+
+“Yahoo” – contract
+Building unify management console with React / Redux
+Visualize data / report with D3.js
+
+Requirement (aka, things to learn in the future)
+Agile / Scrum / JARA
+Wercker / JAVA
+Docker / CD / CI
+
+
+Technique on answering questions: 
+• Use the “STAR” or “SAR” framework to answer questions
+• Try to “steer” the conversation towards the direction in favor of you
+• Remember to “Smile / Be Calm / Listen” to your interviewer, treat this is like a casual conversation and learning experience
+• Wait for a few secondes to organize thought before answering
+
+Questions to ask the company 
+Genuine Questions: 
+Q. What is the ratio of testers to developers to program managers? What is the interaction like? How does project planning happen on the team? 
+Q. What brought you to this company? What has been most challenging for you?
+
+Insightful Question: 
+Q. I notice that you use technology X. How do you handle problem Y? 
+Q. Why did the product choose to use the X protocol over the Y protocol? I know it has benefits like A, B, C, but many companies choose not to use it because of issue D. 
+
+Passion Question: Q. I am very interest in scalability, and I’d love to learn more about it. What opportunities are there at this company to learn about this? 
+Q. I’m not familiar with technology X, but it sounds like a very interesting solution. Could you tell me a bit more about how it works?
+
+Q. What do you value in a company?
+Q. Tell me about a time you had the most fun at work?
+Q. What sort of experience does the rest of the team have?
+Q. How does the company foster employee growth?
+Q. Work flow? 
+Q. Experience of the team? 
+
+MVC (Motivation, Value, Contribution)
+Q. What are your motivations as a software engineer? (Motivation)
+I like to build application to solve problems, I want to surrounded by like-minded and driven people who are looking to do the same thing. I want to work at a company that value creativity and open for changes.  [ I want to make money ] 
+Q. What are your values / what are you looking for in a company? (Value)
+I am a creative problem solver. I would love to work for a company who are open for change and suggestion, and value employee’s creativity and contribution, I want to work for company that are targeting a meaningful problem of the world 
+Q. What are your capabilities technically (software engineering) and non-technically? (Contribution)
+ I am a full stack engineer have strong CS fundamental, and expertise on JavaScript frameworks. I have built application with various technologies, such as Node, Express, React, Redux, Angular, MongoDB, MySQL. I also have experience on deployment and other development tool. As an experienced engineer, I know how to communicate and collaborate effective in any team, and fully utilized my creativity and problem solving skill to make real impact to the team. 
+
+
+Interview Question: 
+
+Behavioral + Culture Fit Question
+
+
+Housekeeping type of question: 
+Q. Salary requirement? 
+- Never give a number; deflect twice; then finally anchor high ($115k) at the end. 
+- I am optimizing for team and culture fits. Do you have a range in for this position?
+Q. Do you have any timing pressures; are you interviewing with any other companies?
+
+
+Q. Tell me about yourself? 
+I am a full stack engineer have strong CS fundamental, and expertise on JavaScript frameworks. I am a creative problem solver. No matter if it is building an app from scratch or fixing a tiny bug, I enjoy the process of analyzing the problems and implementing well-planned solutions. I see every problems as opportunities for improvement, and take action till I solve it. I am fascinated on how technology has change the way we live and work, and ready to use my engineering skill to take on any challenge. 
+
+Q. What got you here? What have you been up to after graduating from Hack Reactor? 
+Q: why do you want to work for our company?
+
+
+Q why you are a good fit for this position?
+(what problem can you solve for us)
+- Strong in CS fundamental; this can help me to develop the scalable solution and easy to maintain
+- I have worked on the tech stack you are using. I can ramp up and be productive very soon.
+- I have work in an engineering environment, I know how to communicate and cooperate with a team in fast pacing environment. 
+
+
+Q. What are your goals for the next 5 years?
+- Top notch developer that can be really good at front+back end
+- Hopefully lead team of young engineers that can make impact on world
+
+Q. Why are you looking to leave your current job?
+I am looking for a new opportunity, to better use my technical skills and creativity, to solve more challenging problems, and make a bigger impact to the world.
+
+Q. What is your biggest recent accomplishment?
+- - (biggest accomplishment? 2nd biggest accomplishment? 3rd biggest accomplishment)
+I have built a chemical management app to shorten the entry time by more than 80%. I designed the database schema to reduce, so user only need to enter the most essential information, and the system will take care of the rest. In addition, I also design compliance check algorithm to quickly search the database, and issue real time warning to the users it something is wrong.
+
+Q. What is most important in your career / what is your long term career goal?
+- On technical side, I want to acquire in-depth knowledge and skill of building a large scale application, from system design to deployment. 
+- On non-technical side, I want to learn the project management skill and work flow on building a large project. 
+
+Q. It looks as though you’ve only been coding for X amount of years
+Although experience is important, it is not the best measure for an engineer’s creative problems solving skills. In addition, I have been for over 3000 hours since the beginning of last year, and built multiple application, which prove that I can build and contribute to a team.  
+
+Q. What are the ideal projects you would like to work on?
+
+
+Q. What is your (greatest) strength? 
+- I have strong problem solving skills. When problem presents, I analyze the cause of the problem, then gather information and resource to check which is best way to solve the problem. (using the code editor complier as example)
+- “I have strong problem solving skills. When problem presents, I analyze the the cause of the problem, then gather information and resource to check which is best way to solve the problem. (using the code editor complier as example)”
+
+
+Q. What are your (greatest) weakness? 
+(give a real, legitimate weakness and say how you work on overcome it)
+
+Q: tell me about a time that you fail?
+When we talk about failure, we are talking about a situation where results does not meet expectation. When I face a situation like this, I try to find out why this happen. Usually, I would something that I can improve, then I take action to make those happen so I am better prepare next time. At the same time, there is something that out of control that is causing the problem. I try to not let that affect my feeling.
+Focus on what I can do and control
+What happen already happen, not think too much about it
+Move on and think about what I can improve for next time 
+
+Q: tell me about the conflict that you have with your teammates? how do you resolve those?
+When we are working on the app, we have trouble to come up with an idea to exicited everyone. Idea that are excited some group members, others are not so into it. We end up 
+
+Q. Tell me a time when you let your team down. What happened and how did you fix it?
+- Messed up scheduling for installation of equipment
+- Talked to vendor and handled situation
+- Learning exp: when you have a prob try to analyze the situation rather than panicking (awesome mature explanation)
+
+Q. If you could change one thing about your personality at work, what would it be?
+- Over analyzing -- that can slow down the process
+- Can be good to find best solution, but bad if it slows you down
+- Fixes it by putting a timetable on what needs to get done
+
+Q. What makes you a highly valuable member of a team?
+- Care about the people, care about the teammate
+- Flexible on the solution -- willing to implement someone else’s better sol’n
+- Strong engineer technically, can come up with best sol’n or work with team to come up with best sol’n
+
+Q. Tell me about a time when your team didn’t work well together
+- Story needs a little more work...somewhat unclear at many points
+- Key is communication
+
+Q. What are your motivations as a software engineer?
+I like solving problems, I enjoy the intellectual challenge of solving problem, and love the process of turning idea into solution and make a real impact in people live and the society
+
+Q. What sort of team are you looking for?
+I am looking for a collaborative and supportive team, that are open for new idea and technology, on solving a challenging yet meaningful problems.  
+
+Q. How have you earned trust from teammates in the past?
+First, I delivered my deliverable on scope and on time, so they know that I am a reliable person to be counted. Second, I proactively seek opportunities to help my teammates out, so they know that I am willing to help. Third, I am try to learn every teammates personality, cultural background and work style, so we can work collaboratively together. 
+
+Q. How do you define humility(谦虚)?
+
+
+Q. When have you failed in the past?  How did you respond?
+Yes, I have failed many times. I see every failure as learning opportunity and chance for improvement. Of course, I may feel disappointed, but after I recover emotionally. I analysis what are the causes, and identify those that I can improve, make a plan and take action, so I can better prepare for the next opportunities.  
+
+Technical Fit Question
+
+Q: what have you been work on lately?
+I recently built a code collaborating tool with React / Redux that integrate with the Github API, for programmers to share code and work on their Github repo directly from the app. The app uses Socket.io to synchronize code for clients in the session. And the app also uses WebRTC and WebSocket for real-time video and message communication. The app also integrated a small plug in to compile JavaScript code directly on the client-side.  
+
+Q. Tell me about something you’ve worked on recently
+Code collaborating tool, integrated with ghub api
+Can work on github repo directly from app
+Websockets
+
+Q. What was your primary contribution to that project?
+Backend routing ghub api; worked on sockets
+
+Q: what technical challenge you are facing? How do you solve it?
+When building the code collaborating app, we need to find a way show the session contents on the client-side immediately after the client join the session. Designing the socket event loop for this is quite challenging. I end up assigning the time stamp as id for client, when a new client joins the session, it will trigger an event, whoever has the earliest time stamp with send contents to the entire session. That way, there always be one, and only one client, to handle this event. So we are not polluting the event loop. 
+
+Q. What is your greatest achievement as an engineer?
+Tackle down any technical challenges -- never give up
+Chemical mngment app → increases efficiency of the process 
+
+Q. What is your favorite thing to work on?
+Technical challenges
+
+Q. What is a technical challenge you’ve faced, and how did you overcome it?
+Designed Event loop for something (a little unclear what the challenge was)
+
+Q. What % of time do you spend coding in your current role?
+
+Q. What would you say is your area of expertise?
+
+Q. Do you have experience with tech X, Y, or Z?
+  Answer: Yes / No
+
+
+Technical Question 
+
+Q. What happen if you type “xxx.com” on a browser? 
+In an extremely rough and simplified sketch, assuming the simplest possible HTTP request, no proxies, IPv4 and no problems in any step:
+1.  browser checks cache; if requested object is in cache and is fresh, skip to #9
+2.  browser asks OS for server's IP address
+3.  OS makes a DNS lookup and replies the IP address to the browser
+4.  browser opens a TCP connection to server (this step is much more complex with HTTPS)
+5.  browser sends the HTTP request through TCP connection
+6.  browser receives HTTP response and may close the TCP connection, or reuse it for another request
+7.  browser checks if the response is a redirect or a conditional response (3xx result status codes), authorization request (401), error (4xx and 5xx), etc.; these are handled differently from normal responses (2xx)
+8.  if cacheable, response is stored in cache
+9.  browser decodes response (e.g. if it's gzipped)
+10. browser determines what to do with response (e.g. is it a HTML page, is it an image, is it a sound clip?)
+11. browser renders response, or offers a download dialog for unrecognized type
+
+
+Q. What is Cross-Site-Scripting (XSS)? How can you avoid it? 
+Key: Script injection; XSS filter with some escaping rules
+
+Q. What is token? Can the user modify the token? 
+Q. What is session? Can the user modify session info? 
+Q. What is cookies? Can the user modify cookies?
+1.  In Session-based Authentication the Server does all the heavy lifting server-side. Broadly speaking a client authenticates with its credentials and receives a session_id (which can be stored in a cookie) and attaches this to every subsequent outgoing request. So this could be considered a "token" as it is the equivalent of a set of credentials. There is however nothing fancy about this session_id-String. It is just an identifier and the server does everything else. It is stateful. It associates the identifier with a user account (e.g. in memory or in a database). It can restrict or limit this session to certain operations or a certain time period and can invalidate it if there are security concern and more importantly it can do and change all of this on the fly. Furthermore it can log the users every move on the website(s). Possible disadvantages are bad scale-ability (especially over more than one server farm) and extensive memory usage.
+2.  In Token-based Authentication no session is persisted server-side (stateless). The initial steps are the same. Credentials are exchanged against a token which is then attached to every subsequent request (It can also be stored in a cookie). However for the purpose of decreasing memory usage, easy scale-ability and total flexibility (tokens can be exchanged with another client) a string with all the necessary information is issued (the token) which is checked after each request made by the client to the server. There are a number of ways to use/ create tokens:
+
+
+HTML Questions
+
+Q. What does a doctype do?
+A DOCTYPE is a required preamble. DOCTYPEs are required for legacy reasons. When omitted, browsers tend to use a different rendering mode that is incompatible with some specifications. Including the DOCTYPE in a document ensures that the browser makes a best-effort attempt at following the relevant specifications.
+Q. What's the difference between full standards mode, almost standards mode and quirks mode?
+There are now three modes used by the layout engines in web browsers: quirks mode, almost standards mode, and full standards mode. 
+- In quirks mode, layout emulates nonstandard behavior in Navigator 4 and Internet Explorer 5. This is essential in order to support websites that were built before the widespread adoption of web standards. 
+- In full standards mode, the behavior is (hopefully) the behavior described by the HTML and CSS specifications. 
+- In almost standards mode, there are only a very small number of quirks implemented.
+
+Q. What's the difference between HTML and XHTML?
+XHTML is HTML written as XML.
+- XHTML stands for Extensible HyperText Markup Language
+- XHTML is almost identical to HTML
+- XHTML is stricter than HTML
+- XHTML is HTML defined as an XML application
+- XHTML is supported by all major browsers
+Document Structure
+- XHTML DOCTYPE is mandatory
+- The xmlns attribute in <html> is mandatory
+- <html>, <head>, <title>, and <body> are mandatory
+XHTML Elements
+- XHTML elements must be properly nested
+- XHTML elements must always be closed
+- XHTML elements must be in lowercase
+- XHTML documents must have one root element
+XHTML Attributes
+- Attribute names must be in lower case
+- Attribute values must be quoted
+- Attribute minimization is forbidden
+
+
+Q. Are there any problems with serving pages as application/xhtml+xml?
+
+Q. How do you serve a page with content in multiple languages?
+
+Q. What kind of things must you be wary of when design or developing for multilingual sites?
+- Language code, set primary language
+- Multiple Languages on html tags
+- Google and language recognition
+- Direction of text (left to right, right to left)
+- Character encoding
+- Font sizes (font size is not suitable for all languages)
+- Lengths of words (diff from language to language)
+
+
+Q. What are data- attributes good for?
+HTML5 is designed with extensibility in mind for data that should be associated with a particular element but need not have any defined meaning. data-* attributes allow us to store extra information on standard, semantic HTML elements without other hacks such as non-standard attributes, extra properties on DOM, or Node.setUserData().
+
+Q. Consider HTML5 as an open web platform. What are the building blocks of HTML5?
+Building blocks of HTML5 are mentioned below :
+1.  more semantic text markup
+2.  new form elements
+3.  video and audio
+4.  new JavaScript API
+5.  canvas and SVG
+6.  new communication API
+7.  geolocation API
+8.  web worker API
+9.  new data storage
+
+Q. Describe the difference between a cookie, sessionStorage and localStorage.
+http://stackoverflow.com/questions/19867599/what-is-the-difference-between-localstorage-sessionstorage-session-and-cookies
+- SessionStorage – only available during session, does not survive page reload
+- LocalStorage – more permanent then session, but it can clear by client as well
+- Cookies – more secure as protection can applied from XSS by setting HTTP only flag
+In terms of capabilities, cookies only allow you to store strings. sessionStorage and localStorage allow you to store JavaScript primitives but not Objects or Arrays (it is possible to JSON serialise them to store them using the APIs). Session storage will generally allow you to store any primitives or objects supported by your Server Side language/framework.
+
+Q. Describe the difference between <script>, <script async> and <script defer>.
+- If no attr, html parse stop for <script>
+- Async, html and script load at the same time, but html parse stop while script is executing
+- Defer, html and script load, scrip won’t execute until html is completed
+
+Why is it generally a good idea to position CSS <link>s between <head></head> and JS <script>s just before </body>? Do you know any exceptions?
+The script elements block progressive page downloads.
+Browsers download several components at a time, but when they encounter an external script, they stop further downloads until the script file is downloaded, parsed, and executed.
+This hurts the overall page time, especially if it happens several times during a page load.
+To minimize the blocking effect, you can place the script element toward the end of the page, right before the closing tag.
+This way there will be no other resources for the script to block. The rest of the page components will be downloaded and already engaging the user.
+
+Q. What is progressive rendering?
+Progressive rendering is the name given to techniques used to render content for display as quickly as possible.
+
+It used to be much more prevalent in the days before broadband internet but it's still useful in modern development as mobile data connections are becoming increasingly popular (and unreliable!)
+Examples of such techniques :
+
+• Lazy loading of images where (typically) some javascript will load an image when it comes into the browsers viewport instead of loading all images at page load.
+• Prioritizing visible content (or above the fold rendering) where you include only the minimum css/content/scripts necessary for the amount of page that would be rendered in the users browser first to display as quickly as possible, you can then use deferred javascript (domready/load) to load in other resources and content
+
+Q. Have you used different HTML templating languages before?
+I have very limited exposure of Handlebar.js and jade.js. However, I never use it for any of my work. 
+
+
+JavaScript
+
+Q. What is “use restrict” do? What is the advantage and disadvantage of using it?
+It executes the JS code in “restrict” mode. The rules are: 
+• === and !==  are already strict by default, with identical semantics in restrict mode. Use them! click for why? 
+• < <= >= > are restricted to primitive strings or numbers (but never a mix) 
+• + is restricted to primitive strings and numbers (in any combination) 
+• * / % & | ^ ~v << >> >>> -v ++v v++ --v v-- are restricted to primitive numbers 
+
+Q. What is “void 0” does? 
+It was to use to generate a primitive value of “undefined”, normally use on an hyperlink
+
+Q. What is the result of 2 + 2 + '2'?
+This is type conversion. Result is a string “42”, as 2 + 2 = 4 + “2” = “42”
+
+Q. What's the result of '123' * 1?
+Another type conversion. Result is number 123. For multiplication and division, it will convert the string with numerical character to number. 
+
+Q. What's the difference between '==' and '==='?
+== is type conversion comparison.
+=== is strict comparison, must be the same type and value, or the same object
+
+Q. How scope is defined in JS?
+https://toddmotto.com/everything-you-wanted-to-know-about-javascript-scope/
+In JavaScript, scope refers to the current context of your code. Scopes can be globally or locally defined. Usually, your local scope is defined by a function. 
+
+Q. In ES6 what is different between let and var ?
+- let allows you to declare variables that are limited in scope to the block, statement, or expression on which it is used. 
+- This is unlike the var keyword, which defines a variable globally, or locally to an entire function regardless of block scope
+
+Q. What are the ways in JS we can execute function?
+Function as function, as method, as constructor, or as function method with function.call() or function.apply()
+
+Q. what arguments passed to function by defualt ?
+“undefined”
+
+Q. how inheritance works in JS ?
+- syntax constructor
+- object.create
+- (functional) constructor
+- class key word
+
+Q. describe functional programming in JS ? give an example ?
+
+
+Q. what is clouser ? give an example ? How and why you would use one?
+- Closures are functions that refer to independent (free) variables (variables that are used locally, but defined in an enclosing scope). In other words, these functions 'remember' the environment in which they were created
+- a function referring to and accessing a local variable, at the same scope when the function was created. Even after the original function has finish execution, the closure still has access to the variable
+
+
+Q. What will be the output ? explain ? how to fix it with clouser ?
+for (var i = 0; i < 5; i++) {
+setTimeout(function() { console.log(i); }, i * 1000 );
+}
+
+Q. find the second smallest number in array ?
+
+Q. What is the “this” keyword in JavaScript?
+- In the global execution context (outside of any function), this refers to the global object, whether in strict mode or not.
+- Inside a function, the value of this depends on how the function is called.
+- In JavaScript, the thing called this, is the object that "owns" the JavaScript code. The value of this, when used in a function, is the object that "owns" the function. The value of this, when used in an object, is the object itself. The this keyword in an object constructor does not have a value.
+- The keyword “this” will refer to the current scope at call time, and access the property of the object. 
+
+
+Q. What is “break” and “continue” do in JavaScript?
+- The break statement "jumps out" of a loop.
+- The continue statement "jumps over" one iteration in the loop.
+ 
+Q. What is function hoisting?
+Function will auto get hoist to the top of the document and accessible for the entire document
+
+Q. What is variable hoising? variable declaration will get hoist to the top. However, it will not been assign any value.
+
+Q. What is the keyword “new” does?
+Instantiate a new object that belongs to a new class:
+1.  It creates a new object. The type of this object, is simply object.
+2.  It sets this new object's internal, inaccessible, [[prototype]] (i.e. __proto__) property to be the constructor function's external, accessible, prototype object (every function object automatically has a prototype property).
+3.  It makes the this variable point to the newly created object.
+4.  It executes the constructor function, using the newly created object whenever this is mentioned.
+5.  It returns the newly created object, unless the constructor function returns a non-null object reference. In this case, that object reference is returned instead.
+
+Q. Can you explain “event delegation”?
+Create an event, usually on a parent element, that only child elements that meet certain criteria listen and react to the event, while others element ignores the event
+
+Q. How do you use an arbitrary object as values of “this”?
+
+
+Q. What is the difference between “call” and “apply”? What are their purpose? And when would you use them? 
+
+Q. What is enumerable properties of an object?
+Property that default via simple assignment and property initializer
+
+Q. What is the difference between host object and native object?  object that are specifically defined and not depends on host environment, such as data, math, etc; object provided by the host environment, such as window, document, location, etc
+
+Q. Why is extending build in JavaScript objects not a good idea?
+  JavaScript build in object has many properties. They may not work as predicted 
+
+Q. Why might a programmer have defined a variable with a capital letter?  Telling others not to change it
+
+Q. What is a prototype & how would you use it?
+Method that belongs to certain class of object (no)
+
+Q. What does the keyword with do? [CURVEBALL: deprecated keyword we don’t expect them to recognize]
+good
+
+Q. What’s the difference between classical inheritance and prototypal? [CURVEBALL: classical is used in Java, pseudoclassical is used in JS - they need to ask clarifying questions]
+Didn’t recognize 
+
+Explain how prototypal inheritance works
+What do you think of AMD vs CommonJS?
+Explain why the following doesn't work as an IIFE: function foo(){ }();.
+What needs to be changed to properly make it an IIFE?
+What's the difference between a variable that is: null, undefined or undeclared?
+How would you go about checking for any of these states?
+What's a typical use case for anonymous functions?
+How do you organize your code? (module pattern, classical inheritance?)
+What's the difference between host objects and native objects?
+Difference between: function Person(){}, var person = Person(), and var person = new Person()?
+Explain Function.prototype.bind.
+When would you use document.write()?
+What's the difference between feature detection, feature inference, and using the UA string?
+Explain Ajax in as much detail as possible.
+What are the advantages and disadvantages of using Ajax?
+Explain how JSONP works (and how it's not really Ajax).
+Have you ever used JavaScript templating? If so, what libraries have you used?
+Describe event bubbling.
+What's the difference between an "attribute" and a "property"?
+Why is extending built-in JavaScript objects not a good idea?
+Difference between document load event and document DOMContentLoaded event?
+Explain the same-origin policy with regards to JavaScript.
+Make this work:
+duplicate([1,2,3,4,5]); // [1,2,3,4,5,1,2,3,4,5]
+Why is it called a Ternary expression, what does the word "Ternary" indicate?
+Why is it, in general, a good idea to leave the global scope of a website as-is and never touch it?
+Why would you use something like the load event? Does this event have disadvantages? Do you know any alternatives, and why would you use those?
+Explain what a single page app is and how to make one SEO-friendly.
+What is the extent of your experience with Promises and/or their polyfills?
+What are the pros and cons of using Promises instead of callbacks?
+What are some of the advantages/disadvantages of writing JavaScript code in a language that compiles to JavaScript?
+What tools and techniques do you use debugging JavaScript code?
+What language constructions do you use for iterating over object properties and array items?
+Explain the difference between mutable and immutable objects.
+What is an example of an immutable object in JavaScript?
+What are the pros and cons of immutability?
+How can you achieve immutability in your own code?
+Explain the difference between synchronous and asynchronous functions.
+What is event loop?
+What is the difference between call stack and task queue?
+Explain the differences on the usage of foo between function foo() {} and var foo = function() {}
+
+
+React / Redux
+What is the different lifecycle events of React? 
+“when would you use react lifecycles”
+How do you choose between JS framework? 
+What is the life cycle for react?
+What is stateless component?
+(is Redux) uni-directional or bi-directional? How do you attach one reducer to more than two components?
+ 
+
+Node
+
+Express
+
+CSS
+Q. How to center a “div”? 
+Margin: 0 auto. The width must less than the containing “div”
+
+Q. If you wanted to layout two components next to each other, how would you style it?
+You can display them as “inline-block”
+
+Q. What is the difference between "visibility:hidden" and "display:none"?
+display:none will not be available in the page and does not occupy any space. visibility:hidden hides an element, but it will still take up the same space as before. The element will be hidden, but still affect the layout. visibility:hidden preserve the space, whereas display:none doesn't preserve the space
+
+Q. What is the box model and how does it apply to CSS?
+All HTML elements can be considered as boxes. In CSS, the term "box model" is used when talking about design and layout. The CSS box model is essentially a box that wraps around every HTML element. It consists of: margins, borders, padding, and the actual content.
+
+Q. What are the five possible values for "Position"?
+- Static: default
+- Relative: a position “relative” to its normal position
+- Fixed: is relative to the viewpoint, always stay at the same place even the page scrolled
+- Absolute: relative to the nearest positioned ancestor
+
+
+Q. What is difference between padding and margin?
+Padding is the space between border content, which margin is the space between the border of two elements.
+
+Q. What are psudo-selector for CSS? How you would use them?
+
+Q. How can you check a <span> tags has content, and display those with contents?
+
+What is the difference between classes and IDs in CSS?
+What's the difference between "resetting" and "normalizing" CSS? Which would you choose, and why?
+Describe Floats and how they work.
+Describe z-index and how stacking context is formed.
+Describe BFC(Block Formatting Context) and how it works.
+What are the various clearing techniques and which is appropriate for what context?
+Explain CSS sprites, and how you would implement them on a page or site.
+What are your favourite image replacement techniques and which do you use when?
+How would you approach fixing browser-specific styling issues?
+How do you serve your pages for feature-constrained browsers?
+What techniques/processes do you use?
+What are the different ways to visually hide content (and make it available only for screen readers)?
+Have you ever used a grid system, and if so, what do you prefer?
+Have you used or implemented media queries or mobile specific layouts/CSS?
+Are you familiar with styling SVG?
+How do you optimize your webpages for print?
+What are some of the "gotchas" for writing efficient CSS?
+What are the advantages/disadvantages of using CSS preprocessors?
+Describe what you like and dislike about the CSS preprocessors you have used.
+How would you implement a web design comp that uses non-standard fonts?
+Explain how a browser determines what elements match a CSS selector.
+Describe pseudo-elements and discuss what they are used for.
+Explain your understanding of the box model and how you would tell the browser in CSS to render your layout in different box models.
+What does * { box-sizing: border-box; } do? What are its advantages?
+List as many values for the display property that you can remember.
+What's the difference between inline and inline-block?
+What's the difference between a relative, fixed, absolute and statically positioned element?
+The 'C' in CSS stands for Cascading. How is priority determined in assigning styles (a few examples)? How can you use this system to your advantage?
+What existing CSS frameworks have you used locally, or in production? How would you change/improve them?
+Have you played around with the new CSS Flexbox or Grid specs?
+How is responsive design different from adaptive design?
+Have you ever worked with retina graphics? If so, when and what techniques did you use?
+Is there any reason you'd want to use translate() instead of absolute positioning, or vice-versa? And why?
+
+jQuery
+
+document.onLoad() vs document.ready()
+Can you have two document.ready() function in jQuery?
+How can you filter elelement at jQuery? Event.target vs event.currentTarget.
+  e.target = trigger the event
+  e.currentTarget = things before the listener dot“.” 
+
+
+
+CS
+What is the storage limit in a byte?
+What is the difference between an array and a hashmap? 
+What design patterns are you familiar with? 
+What are regular expression and when would you use them? 
+What is the difference between a class and an object?
+What is the difference between a tree and a graph?
+Implement a class for Sets (data structure)?
+
+
+Database
+What is cluster index (in MySQL)?
+
+What is document database?
+Key-value pair? SQL database vs document database? What is the difference?
+  SQL are defined by tables, a simple object’s properties may store in different table, while document database are store at one location of the document and retrieve by the object’s location.
+
+Backend
+
+What XSS?
+  Cross-site scripting (XSS) is a type of computer security vulnerability typically found in web applications. XSS enables attackers to inject client-side scripts into web pages viewed by other users. 
+List four main HTTP verbs and describe how they are used?
+“name me some of the http verbs and why you would use each of them” 
+
+  GET – request data
+  POST – create data entry
+  PUT – look for and update entry
+  DELETE – delete entry
+
+The way node is set up you pass 2 parameters into callbacks, what are those parameters?
+
+
+
+
+Tell me about “Webpack”
+Tell me about “Babel”
+Browser support issue? (Browserstack)
+
+
+How do you do “…” base on whatever on your resume? 
+Tech choice about your project? 
+How do you approach a problem? 
+Your experience on “XYZ” technologies (AWS, webpack, Testing)
+
+==========   From HR44  =======
+
+
+Questions: 
+Implement a function to shuffle an array. How would you verify that the shuffling function correctly randomizing the array?
+Suppose you have an NxM matrix. Each cell can have 0 or 1. Write a function that will ‘zero out’ any row or column that contains a 0.
+Suppose you have a stream of integers coming in. Write a function that returns the media of the values that have been streamed so far.
+Notes:
+The recruiter (Peter) was extremely helpful. He called me before the interview to let me know what to expect. He and the engineers knew that I was coming from a non-traditional background, which made me feel much better. 
+The interviewers (Frank and Patrick) asked probing questions about the efficiency and time/space complexity of my solutions, and pressed me on my decisions to use certain data structures. Overall it was a very fun and collaborative interview process - I definitely learned a lot!
+
+Given a binary search tree and a number n, write a function that returns the lowest value that is still higher than n. 
+Write a function that reads a file containing words (one word per line) and returns a list of grouped words from the file that are anagrams of each other
+How would you architect and optimize a self-serve ads dashboard that needs to be accessed globally? How would you scale the database layer (sharding, etc)
+Write a function that, given a 9x9 matrix with a partially filled Sudoku puzzle, completes the matrix with a viable solution
+
+mattaft [12:18 PM]  
+[12:18]  
+btw whoever was wondering what the gigster coding challenge was, I had to build a calculator
+
+clayhan [12:33 PM]  
+@mattaft Would you post the question? Just wondering
+
+mattaft [12:35 PM]  
+i dont have access to it anymore but they set it up, you just need to code the functionality
+
+[12:36]  
+there were multiple steps too, the 2nd one wants your function to be able to handle parantheses
+
+[12:36]  
+the first step is just to handle the * and / before + and -
+
+rafael [12:41 PM]  
+About how long did you have to do this?
+
+ffhy [12:43 PM]  
+I was just working on calculator functionality problem yesterday, took me like 3 hrs for it to work with negatives and parentheses, but only calculations with integers
+
+cptran14 [12:44 PM]  
+Third step is to handle variables. They give you 1 hour
+
+babybluejeff [12:44 PM]  
+Was the calculator a take home?
+
+cptran14 [12:44 PM]  
+Timed
+
+mattaft [12:46 PM]  
+you have 1 hr to answer 10 multiple choice questions then do  the calculator
+
+billy [12:47 PM]  
+@babybluejeff: this is the coding challenge to get onto gigster
+
+mattaft [12:48 PM]  
+what’s weird is you need to do this coding challenge to schedule an interview, but it let me schedule an interview as soon as i signed up
+
+-----
+
+cptran14 [2:05 PM]  
+holy shit the gigster interview was tough :persevere:
+
+[2:05]  
+and the guy at the end did not sound too pleased with me...
+
+babybluejeff [2:06 PM]  
+What did they ask during the interview and how did he not sound pleased?
+
+cptran14 [2:07 PM]  
+i think halfway through the interview he realized that databases were my weak point, so i got grilled hard on database questions, like how databases work under the hood
+
+babybluejeff [2:07 PM]  
+Do you remember any specific questions?
+
+cptran14 [2:10 PM]  
+so first it was like, database indexing, the advantages of that, how it compares to using arrays/hash tables in terms of time and shit, then during a “how would you build this app from start to finish” sort of question, we deep dove on database storage limitations because i wanted to directly store the text in a chat box
+
+[2:10]  
+in a code share box*
+
+babybluejeff [2:11 PM]  
+Wow, "How would you build this app from start to finish?" is a loaded question.
+
+clayhan [2:11 PM]  
+its pretty common, bro
+
+cptran14 [2:11 PM]  
+yeeeeeeep i choose react (why react?) then i was like sockets (oh why sockets?)
+
+[2:11]  
+why did you choose mysql over mongo?
+
+billy [2:13 PM]  
+@cptran14 it's a good place to gauge what you need to brush up on
+
+[2:13]  
+I'm sure you did great
+
+[2:13]  
+but now you have this one under the belt
+
+[2:14]  
+on to the next one
+
+cptran14 [2:14 PM]  
+lol i have a laundry list of things to work on now
+
+[2:15]  
+oh and i got grilled on multi-threading
+
+[2:16]  
+like dafuuuuuq man
+
+[2:16]  
+the fact that i came up with an answer to that was a miracle, pls don’t keep asking questions about it
+
+jun3won [2:19 PM]  
+look up differences between multi threads vs multi processes
+
+
+Questions:
+Write a function that takes a binary tree and returns the mirrored version of that binary tree
+
+============= End of HR44 =================
+
+
+
+
+
+
+Class in JS is not harmless sugar for prototypal OO. Class is a virus that infects everything it touches. It came to us formally in JavaScript with ES6, and at the same time, React was taking off. Lots of people started using classes for React components (you don’t have to: the new React 0.14 supports pure function components, or try react-stamp).
+
+Many are unaware that you can build React components in a class-free style. This has caused confusion and incompatibility between React components and other composable elements in the React ecosystem (components, mixins, and component wrappers).
+
+During the days of Backbone dominance (Backbone used its own flavor of classes), I watched a once malleable codebase transform into a brittle mess. I saw code complicated by abstractions necessary to unify the calling API of classes that require `new`, and factories that don’t, forcing the use of dependency injection container that ended up coupling every dependent module tightly to the container API. Those of you with Angular experience will understand what I’m talking about. Angular has four different ways to create services, and features a dependency injection container to abstract them all.
+
+Many brilliant people warned of the perils of class inheritance decades ago, before JavaScript was invented. You can find their warnings in essays with titles like “Object Oriented Programming Considered Harmful”, “Class Considered Harmful”, and “New Considered Harmful”. Such warnings have been published on Usenet, in academic papers, and respected publications such as Doctor Dobb’s Journal: a magazine that gave us nearly 40 years of software development wisdom before its sunset at the end of 2014. Incidentally, there’s also an essay called “Considered Harmful Considered Harmful”, but I digress.
+
+Joe Armstrong, the creator of Erlang summed up one of the famous problems with class in what has become known as The Gorilla Banana Problem from the great book, “Coders at Work” (buy it, there’s lots of other great stuff in it):
+
+“The problem with object-oriented languages is they’ve got all this implicit environment that they carry around with them. You wanted a banana but what you got was a gorilla holding the banana and the entire jungle.”
+
+The seminal tome of OO design, “Design Patterns: Elements of Reusable Object-Oriented Software” — the book from which design patterns get their name — implores:
+“Favor object composition
+over class inheritance.”
+Edit:
+Some readers are asking about the class rant. Learn more about why I don’t like classes in JavaScript:
+* The Two Pillars of JavaScript: How to Escape the 7th Circle of Hell
+* A Simple Challenge to Classical Inheritance Fans
+* Common Misconceptions About Inheritance in JavaScript
+* How to Fix the ES6 `class` Keyword
+* Introducing the Stamp Specification
+If you’re one of those obstinate classical inheritance fans, you may disagree with lots of this article, but there are still some gems here for you, too. Take what you like, toss the rest. I won’t be offended.
+It Starts With People
+In “How to Build a High Velocity Development Team”, I made a couple points worth repeating:
+“Nothing predicts business outcomes better than an exceptional team. If you’re going to beat the odds, you need to invest here, first.”
+As Marcus Lemonis says, focus on the 3 P’s:
+“People, Process, Product”
+
+Your early hires should be very strong, senior-level candidates. People who can hire and mentor other developers, and help the mid-level and junior developers you’ll eventually want to hire down the road.
+
+Read “Why Hiring is So Hard in Tech” for a good breakdown of the general do’s and don’ts of candidate evaluation.
+
+The best way to evaluate a candidate is a pair programming exercise. Pair program with the candidate. Let the candidate drive. Watch and listen more than you talk. A good project might be to pull tweets from the Twitter API and display them on a timeline. That said, no single exercise will tell you everything you need to know. An interview can be a very useful tool as well, but don’t waste time asking about syntax or language quirks. You need to see the big picture. Ask about architecture and paradigms — the big decisions that can have a major impact on the whole project.
+
+Syntax and features are easy to Google. It’s much harder to Google for software engineering wisdom or the common paradigms and idioms JavaScript developers pick up with experience.
+JavaScript is special, and it plays a critical role in almost every large application. What is it about JavaScript that makes it meaningfully different from other languages?
+
+Here are some questions that will help you explore the stuff that really matters:
+
+1. Can you name two programming paradigms important for JavaScript app developers?
+JavaScript is a multi-paradigm language, supporting imperative/procedural programming along with OOP (Object-Oriented Programming) and functional programming. JavaScript supports OOP with prototypal inheritance.
+Good to hear:
+Prototypal inheritance (also: prototypes, OLOO).
+Functional programming (also: closures, first class functions, lambdas).
+
+Red flags:
+No clue what a paradigm is, no mention of prototypal oo or functional programming.
+Learn More:
+The Two Pillars of JavaScript Part 1 — Prototypal OO.
+The Two Pillars of JavaScript Part 2 — Functional Programming.
+
+2. What is functional programming?
+Functional programming produces programs by composing mathematical functions and avoids shared state & mutable data. Lisp (specified in 1958) was among the first languages to support functional programming, and was heavily inspired by lambda calculus. Lisp and many Lisp family languages are still in common use today.
+Functional programming is an essential concept in JavaScript (one of the two pillars of JavaScript). Several common functional utilities were added to JavaScript in ES5.
+
+Good to hear:
+Pure functions / function purity.
+Avoid side-effects.
+Simple function composition.
+Examples of functional languages: Lisp, ML, Haskell, Erlang, Clojure, Elm, F Sharp, OCaml, etc…
+Mention of features that support FP: first-class functions, higher order functions, functions as arguments/values.
+
+Red flags:
+No mention of pure functions / avoiding side-effects.
+Unable to provide examples of functional programming languages.
+Unable to identify the features of JavaScript that enable FP.
+
+Learn More:
+The Two Pillars of JavaScript Part 2.
+The Dao of Immutability.
+Professor Frisby’s Mostly Adequate Guide to Functional Programming.
+The Haskell School of Music.
+
+3. What is the difference between classical inheritance and prototypal inheritance?
+
+Class Inheritance: instances inherit from classes (like a blueprint — a description of the class), and create sub-class relationships: hierarchical class taxonomies. Instances are typically instantiated via constructor functions with the `new` keyword. Class inheritance may or may not use the `class` keyword from ES6.
+Prototypal Inheritance: instances inherit directly from other objects. Instances are typically instantiated via factory functions or `Object.create()`. Instances may be composed from many different objects, allowing for easy selective inheritance.
+In JavaScript, prototypal inheritance is simpler & more flexible than class inheritance.
+
+Good to hear:
+Classes: create tight coupling or hierarchies/taxonomies.
+Prototypes: mentions of concatenative inheritance, prototype delegation, functional inheritance, object composition.
+Red Flags:
+No preference for prototypal inheritance & composition over class inheritance.
+Learn More:
+The Two Pillars of JavaScript Part 1 — Prototypal OO.
+Common Misconceptions About Inheritance in JavaScript.
+
+4. What are the pros and cons of functional programming vs object-oriented programming?
+
+OOP Pros: It’s easy to understand the basic concept of objects and easy to interpret the meaning of method calls. OOP tends to use an imperative style rather than a declarative style, which reads like a straight-forward set of instructions for the computer to follow.
+OOP Cons: OOP Typically depends on shared state. Objects and behaviors are typically tacked together on the same entity, which may be accessed at random by any number of functions with non-deterministic order, which may lead to undesirable behavior such as race conditions.
+FP Pros: Using the functional paradigm, programmers avoid any shared state or side-effects, which eliminates bugs caused by multiple functions competing for the same resources. With features such as the availability of point-free style (aka tacit programming), functions tend to be radically simplified and easily recomposed for more generally reusable code compared to OOP.
+FP also tends to favor declarative and denotational styles, which do not spell out step-by-step instructions for operations, but instead concentrate on what to do, letting the underlying functions take care of the how. This leaves tremendous latitude for refactoring and performance optimization, even allowing you to replace entire algorithms with more efficient ones with very little code change. (e.g., memoize, or use lazy evaluation in place of eager evaluation.)
+Computation that makes use of pure functions is also easy to scale across multiple processors, or across distributed computing clusters without fear of threading resource conflicts, race conditions, etc…
+FP Cons: Over exploitation of FP features such as point-free style and large compositions can potentially reduce readability because the resulting code is often more abstractly specified, more terse, and less concrete.
+
+More people are familiar with OO and imperative programming than functional programming, so even common idioms in functional programming can be confusing to new team members.
+FP has a much steeper learning curve than OOP because the broad popularity of OOP has allowed the language and learning materials of OOP to become more conversational, whereas the language of FP tends to be much more academic and formal. FP concepts are frequently written about using idioms and notations from lambda calculus, algebras, and category theory, all of which requires a prior knowledge foundation in those domains to be understood.
+
+Good to hear:
+Mentions of trouble with shared state, different things competing for the same resources, etc…
+Awareness of FP’s capability to radically simplify many applications.
+Awareness of the differences in learning curves.
+Articulation of side-effects and how they impact program maintainability.
+Awareness that a highly functional codebase can have a steep learning curve.
+Awareness that a highly OOP codebase can be extremely resistant to change and very brittle compared to an equivalent FP codebase.
+Awareness that immutability gives rise to an extremely accessible and malleable program state history, allowing for the easy addition of features like infinite undo/redo, rewind/replay, time-travel debugging, and so on. Immutability can be achieved in either paradigm, but a proliferation of shared stateful objects complicates the implementation in OOP.
+
+Red flags:
+Unable to list disadvantages of one style or another — Anybody experienced with either style should have bumped up against some of the limitations.
+
+Learn More:
+The Two Pillars of JavaScript Part 1 — Prototypal OO.
+The Two Pillars of JavaScript Part 2 — Functional Programming.
+
+5. When is classical inheritance an appropriate choice?
+This is a trick question. The answer is never. I’ve been issuing this challenge for years, and the only answers I’ve ever heard fall into one of several common misconceptions. More frequently, the challenge is met with silence.
+Good to hear:
+Rarely, almost never, or never.
+“Favor object composition over class inheritance.”
+Red flags:
+Any other response.
+“React Components” — no, the pitfalls of class inheritance don’t change just because a new framework comes along and embraces the `class` keyword. Contrary to popular awareness, you don’t need to use `class` to use React. This answer reveals a misunderstanding of both `class` and React.
+Learn More:
+The Two Pillars of JavaScript Part 1 — Prototypal OO.
+JS Objects — Inherited a Mess.
+
+6. When is prototypal inheritance an appropriate choice?
+There is more than one type of prototypal inheritance:
+Delegation (i.e., the prototype chain).
+Concatenative (i.e. mixins, `Object.assign()`).
+Functional (Not to be confused with functional programming. A function used to create a closure for private state/encapsulation).
+Each type of prototypal inheritance has its own set of use-cases, but all of them are equally useful in their ability to enable composition, which creates has-a or uses-a or can-do relationships as opposed to the is-a relationship created with class inheritance.
+
+Good to hear:
+In situations where modules or functional programming don’t provide an obvious solution.
+When you need to compose objects from multiple sources.
+Any time you need inheritance.
+Red flags:
+No knowledge of when to use prototypes.
+No awareness of mixins or `Object.assign()`.
+Learn More:
+“Programming JavaScript Applications”: Prototypes section.
+
+7. What does “favor object composition over class inheritance” mean?
+
+This is a quote from “Design Patterns: Elements of Reusable Object-Oriented Software”. It means that code reuse should be achieved by assembling smaller units of functionality into new objects instead of inheriting from classes and creating object taxonomies.
+In other words, use can-do, has-a, or uses-a relationships instead of is-a relationships.
+
+Good to hear:
+Avoid class hierarchies.
+Avoid brittle base class problem.
+Avoid tight coupling.
+Avoid rigid taxonomy (forced is-a relationships that are eventually wrong for new use cases).
+Avoid the gorilla banana problem (“what you wanted was a banana, what you got was a gorilla holding the banana, and the entire jungle”).
+Make code more flexible.
+Red Flags:
+Fail to mention any of the problems above.
+Fail to articulate the difference between composition and class inheritance, or the advantages of composition.
+Learn More:
+
+Introducing
+the Stamp Specification
+
+Move Over, `class`:
+Composable Factory Functions Are Here
+medium.com  
+
+8. What are two-way data binding and one-way data flow, and how are they different?
+
+Two way data binding means that UI fields are bound to model data dynamically such that when a UI field changes, the model data changes with it and vice-versa.
+One way data flow means that the model is the single source of truth. Changes in the UI trigger messages that signal user intent to the model (or “store” in React). Only the model has the access to change the app’s state. The effect is that data always flows in a single direction, which makes it easier to understand.
+One way data flows are deterministic, whereas two-way binding can cause side-effects which are harder to follow and understand.
+
+Good to hear:
+React is the new canonical example of one-way data flow, so mentions of React are a good signal. Cycle.js is another popular implementation of uni-directional data flow.
+Angular is a popular framework which uses two-way binding.
+Red flags:
+No understanding of what either one means. Unable to articulate the difference.
+Learn more:
+
+9. What are the pros and cons of monolithic vs microservice architectures?
+
+A monolithic architecture means that your app is written as one cohesive unit of code whose components are designed to work together, sharing the same memory space and resources.
+A microservice architecture means that your app is made up of lots of smaller, independent applications capable of running in their own memory space and scaling independently from each other across potentially many separate machines.
+Monolithic Pros: 
+The major advantage of the monolithic architecture is that most apps typically have a large number of cross-cutting concerns, such as logging, rate limiting, and security features such audit trails and DOS protection.
+When everything is running through the same app, it’s easy to hook up components to those cross-cutting concerns.
+There can also be performance advantages, since shared-memory access is faster than inter-process communication (IPC).
+Monolithic cons: 
+Monolithic app services tend to get tightly coupled and entangled as the application evolves, making it difficult to isolate services for purposes such as independent scaling or code maintainability.
+Monolithic architectures are also much harder to understand, because there may be dependencies, side-effects, and magic which are not obvious when you’re looking at a particular service or controller.
+Microservice pros: 
+Microservice architectures are typically better organized, since each microservice has a very specific job, and is not concerned with the jobs of other components. Decoupled services are also easier to recompose and reconfigure to serve the purposes of different apps (for example, serving both the web clients and public API).
+They can also have performance advantages depending on how they’re organized because it’s possible to isolate hot services and scale them independent of the rest of the app.
+Microservice cons: 
+As you’re building a new microservice architecture, you’re likely to discover lots of cross-cutting concerns that you did not anticipate at design time. A monolithic app could establish shared magic helpers or middleware to handle such cross-cutting concerns without much effort.
+In a microservice architecture, you’ll either need to incur the overhead of separate modules for each cross-cutting concern, or encapsulate cross-cutting concerns in another service layer that all traffic gets routed through.
+Eventually, even monolthic architectures tend to route traffic through an outer service layer for cross-cutting concerns, but with a monolithic architecture, it’s possible to delay the cost of that work until the project is much more mature.
+Microservices are frequently deployed on their own virtual machines or containers, causing a proliferation of VM wrangling work. These tasks are frequently automated with container fleet management tools.
+Good to hear:
+Positive attitudes toward microservices, despite the higher initial cost vs monolthic apps. Aware that microservices tend to perform and scale better in the long run.
+Practical about microservices vs monolithic apps. Structure the app so that services are independent from each other at the code level, but easy to bundle together as a monolithic app in the beginning. Microservice overhead costs can be delayed until it becomes more practical to pay the price.
+Red flags:
+Unaware of the differences between monolithic and microservice architectures.
+Unaware or impractical about the additional overhead of microservices.
+Unaware of the additional performance overhead caused by IPC and network communication for microservices.
+Too negative about the drawbacks of microservices. Unable to articulate ways in which to decouple monolithic apps such that they’re easy to split into microservices when the time comes.
+Underestimates the advantage of independently scalable microservices.
+
+10. What is asynchronous programming, and why is it important in JavaScript?
+Synchronous programming means that, barring conditionals and function calls, code is executed sequentially from top-to-bottom, blocking on long-running tasks such as network requests and disk I/O.
+Asynchronous programming means that the engine runs in an event loop. When a blocking operation is needed, the request is started, and the code keeps running without blocking for the result. When the response is ready, an interrupt is fired, which causes an event handler to be run, where the control flow continues. In this way, a single program thread can handle many concurrent operations.
+User interfaces are asynchronous by nature, and spend most of their time waiting for user input to interrupt the event loop and trigger event handlers.
+Node is asynchronous by default, meaning that the server works in much the same way, waiting in a loop for a network request, and accepting more incoming requests while the first one is being handled.
+This is important in JavaScript, because it is a very natural fit for user interface code, and very beneficial to performance on the server.
+
+Good to hear:
+An understanding of what blocking means, and the performance implications.
+An understanding of event handling, and why its important for UI code.
+Red flags:
+Unfamiliar with the terms asynchronous or synchronous.
+Unable to articulate performance implications or the relationship between asynchronous code and UI code.
+
+Conclusion
+That’s it for the interview. Stick to high-level topics. If they can answer these questions, that typically means that they have enough programming experience to pick up language quirks & syntax in a few weeks, even if they don’t have a lot of JavaScript experience.
+Don’t disqualify candidates based on stuff that’s easy to learn (including classic CS-101 algorithms, or any type of puzzle problem).
+What you really need to know is, “does this candidate understand how to put an application together?”
+
+
+
+
+
+CSS
+
+Explain what a class selector is and how it’s used:
+A class can be thought of as a grouped collection of CSS attributes applied to HTML elements. This allows you to apply the same styling to multiple HTML elements by placing them in the same CSS class. ---- Class methods can be called by inserting a ‘class’ property and name within an HTML element, then calling the class name with a ‘.’  in the CSS doc.
+
+What are pseudo classes and what are they used for?
+Pseudo classes are similar to classes, but are not explicitly defined in the markup, and are used to add additional effects to selected HTML elements such as link colors, hover actions, etc.
+Pseudo classes are defined by first listing the selector, followed by a colon and then pseudo-class element. E.g.,  a:link{ color: blue }, or a:visited { color: red }
+
+Pseudo-class syntax:
+selector:pseudo-class {
+property:value;}
+
+Syntax for using a pseudo class within a CSS class:
+selector.class:pseudo-class {
+property:value;}
+
+:link, :visited, :hover, :active, :first_line are all examples of pseudo classes, used to call a specific action on an element, such as the changing of a link color after it has been visited.
+
+Explain the three main ways to apply CSS styles to a Web page:
+Inline: Though this method often goes against best practices, it’s easily done by inserting a ‘style’ attribute inside an HTML element:
+e.g.) <p style=”color:blue”>Lorem Ipsum</p>
+
+Embedded/Internal: Done by defining the head of an HTML document by wrapping characteristics in a <style> tag.
+html-css-coding-screenshot
+
+Linked/External: CSS is placed in an external .css file, and linked to the HTML document with a <link> tag. This can also be accomplished using the ‘@import’, however, this can slow page load time and is generally not advised.
+css coding, web page styles
+
+What is grouping and what is it used for?
+Grouping allows you to apply the same style to multiple elements with a single declaration. This is done by grouping the selectors into a list, separated by commas.
+e.g.)  h1, h2  { font-family: Helvetica; font-size: 20; }
+
+Grouping helps memory usage and enhances readability.
+
+What is an ID selector and how is it used?
+IDs are used to identify and apply styling to a single specific HTML element. IDs are defined within the HTML page by inserting an ID selector in the HTML element:
+ID selectors are defined within the CSS page by calling a ‘#’ followed by the name of the ID:
+
+ID selectors are unique and can only be applied to a single element.
+
+What is a Class selector and how does it differ from an ID selector?
+Class selectors are used to apply style to multiple HTML identified with the same class.
+
+Class selectors are called within the CSS document by a ‘.’, followed by the class name:
+
+The main difference is that the same class selector can be applied to multiple HTML elements, whereas ID selectors are unique..
+
+What are child selectors?
+
+Child selectors are another way to group and style a set of elements that descend from a parent element.
+
+A child selector is matched by calling two or more elements, separated by a ‘>’ sign to indicate inheritance.
+
+What are the different CSS properties used to change dimensions and what values can they accept?
+height: Sets a specific height
+auto
+length
+%
+inherit
+width: Sets a specific width
+auto
+length
+%
+inherit
+max-height: Sets a maximum height
+auto
+length
+%
+inherit
+max-width: Sets a maximum width
+auto
+length
+%
+inherit
+min-height: Sets a minimum height
+auto
+length
+%
+inherit
+min-width: Sets a minimum width
+auto
+length
+%
+inherit
+
+How is the float property implemented in CSS?
+Floats allow an element to be positioned horizontally, allowing elements below the floated element to flow around it. Several floating elements can be placed together to make a gallery type layout.
+Floats can only accept a left or right value.
+
+To prevent subsequent elements from flowing around the floated element, pass in the clear property, followed by the side you wish to disable (i.e., ‘left’, ‘right’, ‘both’).
+
+What is the CSS Box Model used for? What are the elements that it includes?
+CSS box model is made up of margins, borders, padding, and content.
+Box model provides a structured way to space elements in relationship to each other.
+
+How to restore the default property value using CSS?
+In short, there’s no easy way to restore to default values to whatever a browser uses . The closest option is to use the ‘initial’ property value, which will restore it to the default CSS values, rather than the browser’s default styles.
+
+What is the purpose of pseudo-elements and how are they made?
+Pseudo elements are made using a double colon (::) followed by the name of the pseudo element.
+Pseudo-elements are used to add special effects to some selectors, and can only be applied to block-level elements.
+Most commonly used pseudo-elements are ::first_line, ::first_letter, ::before, ::after
+
+How are inline and block elements different from each other?
+A block element is an element that takes up the full width available, and has a line break before and after it. <h1>, <p>, <li>, and <div> are all examples of block elements.
+An inline element only takes up as much width as necessary, cannot accept width and height values, and does not force line breaks. <a> and <span> are examples of inline elements.
+
+What is the purpose of the z-index and how is it used?
+The z-index helps specify the stack order of positioned elements that may overlap one another. The z-index default value is zero, and can take on either a positive or negative number.
+An element with a higher z-index is always stacked above one with a lower index.
+Z-Index can take the following values:
+Auto: Sets the stack order equal to its parents.
+Number: Orders the stack order.
+Initial: Sets this property to its default value (0).
+Inherit: Inherits this property from its parent element.
+
+What are the advantages and disadvantages of External Style Sheets?
+The biggest advantages of external style sheets are that they can be applied to multiple documents while being managed from a single style sheet. This keeps code DRY and improves efficiency and convenience.
+The disadvantages are that it may decrease loading time in some situations. It may also not be practical if there are not enough styling conditions to justify an external sheet.
+List the main CSS style sheet properties:
+Background
+Text
+Font
+Border
+Outline
+Margin
+Padding
+List
+Table
+
+Which online resources do you refer to when having issues with CSS?
+No real correct answer here, save for being able to discuss your favorite online CSS community forums and resources. e.g. Mozilla Developer Network, StackOverflow, etc.
+This is just your opportunity to discuss larger CSS issues and show how plugged-in you are to the community.
+
+What are the various techniques for clearing floats?
+At some point or another, you will likely experience a collapsed float, which you will need to address.
+This can be accomplished several ways, including using a clearfix2, by floating the parent element of the collapsed element, or by using an overflow property3.
+
+Explain the difference between visibility:hidden and display:none
+visibility:hidden simply hides the element, while it will still take up space and affect the layout of the document.
+display:none also hides the element, but will not take up space and the page will appear as if the element is not present.
+What are some of the new features and properties in CSS3?
+Box model
+New Web fonts
+Rounded corners
+Border Images
+Box Shadows, Text Shadows
+New Color schemes (RGBA)
+Transform property
+New Pseudo-classes
+Multi-column layout
+New Gradients
+
+Why shouldn’t I use fixed sized fonts ?
+Often times, fixed font sizes will show up incorrectly on the user end and will prohibit responsiveness. Using relative sizing will keep fonts proportionate in their relationships to each other and will allow for greater end user flexibility.
+
+Which font names are available on all platforms ?
+Only five basic font families( serif, sans-serif, cursive, fantasy, and monsospace) are recognized across platforms, rather than specific fonts.
+Specific font name recognitions will vary by browser.
+
+Do you use grid systems, and if so, what do you prefer?
+Again, no correct answer here. Just be able to discuss the pros and cons of different grid systems, mobile-first, fluid and responsive web design issues.
+
+What are the advantages/disadvantages of using CSS preprocessors? (SASS, Compass, Stylus, LESS)
+Here is another opportunity to discuss your personal preferences on use of CSS preprocessors and why.
+While there’s no right or wrong answer here, below are some commonly cited pros and cons of using preprocessors:
+Benefits: Ability to use nested sytax, define variables and mixins, use of mathematical and operational functions, and the ability to join multiple files into a single one.
+Disadvantages: Difficulties tracking file size, maintenance and updating issues, difficulties debugging.
+
+Why and how are shorthand properties used? Give examples.
+Using shorthand properties can improve page load times and reduce file size.
+Can be done with background, font, border, padding, outline, and list-style properties.
+Shorthanding is accomplished by listing the property values on a single line, in a specific order.
+e.g.) Code snippet ‘a’ gets shorthanded into code snippet ‘b’ by condensing the property values (in order) onto a single line:
+
+Effectively Communicating Your Skills
+While it’s true there’s no substitute for a strong portfolio and raw coding skills, being able to discuss CSS principles and concepts in a clear and coherent manner will demonstrate your communication skills as well as your theoretical and peripheral subject knowledge. This can be particularly handy when being interviewed by a non-technical person, as being able to describe complex issues in plain language will help you stand out. While you’ll still need to be a strong and competent programmer to get the job, taking the time to prep for the verbal interview is still necessary. If you’re strong and up to date on CSS, these questions should be a breeze.  If not, use the questions to help sort out where your weaknesses are and brush up with an online course.
+
+
+React
+
+Question #1: What is React? How is it different from other JS frameworks?
+
+Although this sounds like a relatively simple question, it’s really asking you to state an informed opinion about React, as well as any competing alternatives. In short, this question is designed to test your knowledge about the JavaScript ecosystem at large while also pressing you for specifics on what makes React unique.
+
+To answer this question, let’s take each part separately.
+
+What is React?
+
+React is an open-source JavaScript library created by Facebook for building complex, interactive UIs in web and mobile applications.
+
+The key point in this answer is that React’s core purpose is to build UI components; it is often referred to as just the “V” (View) in an “MVC” architecture. Therefore it has no opinions on the other pieces of your technology stack and can be seamlessly integrated into any application.
+
+How is React different?
+
+The answer to this question will likely vary depending on your own personal experiences. The important thing is to speak directly to your own experience — cite some examples and be prepared to offer opinions on whether or not you prefer React and why.
+
+Because React is a small library focused on building UI components, it is necessarily different than a lot of other JavaScript frameworks.
+
+For example, AngularJS (1.x) approaches building an application by extending HTML markup and injecting various constructs (e.g. Directives, Controllers, Services) at runtime. As a result, AngularJS is very opinionated about the greater architecture of your application — these abstractions are certainly useful in some cases, but in many situations, they come at the cost of flexibility.
+
+By contrast, React focuses exclusively on the creation of components, and has few (if any) opinions about an application’s architecture. This allows a developer an incredible amount of flexibility in choosing the architecture they deem “best” — though it also places the responsibility of choosing (or building) those parts on the developer.
+
+I recently migrated an application originally written in AngularJS to React, and one of the things I loved most was…
+
+By comparing and contrasting React with another library, not only can you demonstrate a deep understanding of React but also position yourself as a strong candidate by highlighting your experience.
+
+Be prepared to be asked some follow-up questions as well, such as:
+
+Under what circumstances would you choose React over (AngularJS, etc)?
+If React only focuses on a small part of building UI components, can you explain some pitfalls one might encounter when developing a large application?
+If you were rewriting an AngularJS application in React, how much code could you expect to re-use?
+
+Question #2: What happens during the lifecycle of a React component?
+One of the most valuable parts of React is its component lifecycle — so understanding exactly how components function over time is instrumental in building a maintainable application.
+High-Level Component Lifecycle
+At the highest level, React components have lifecycle events that fall into three general categories:
+Initialization
+State/Property Updates
+Destruction
+Every React component defines these events as a mechanism for managing its properties, state, and rendered output. Some of these events only happen once, others happen more frequently; understanding these three general categories should help you clearly visualize when certain logic needs to be applied.
+For example, a component may need to add event listeners to the DOM when it first mounts. However, it should probably remove those event listeners when the component unmounts from the DOM so that irrelevant processing does not occur. 
+Low-Level Component Lifecycle
+
+Within these three general buckets exist a number of specific lifecycle hooks — essentially abstract methods — that can be utilized by any React component to more accurately manage updates. Understanding how and when these hooks fire is key to building stable components and will enable you to control the rendering process (improving performance).
+Take a look at the diagram above. The events under “Initialization” only happen when a component is first initialized or added to the DOM. Similarly, the events under “Destruction” only happen once (when the component is removed from the DOM). However, the events under “Update” happen every time the properties or state of the component change.
+For example, components will automatically re-render themselves any time their properties or state change. However, in some cases a component might not need to update — so preventing the component from re-rendering might improve the performance of our application. 
+Question #3: What can you tell me about JSX?
+When Facebook first released React to the world, they also introduced a new dialect of JavaScript called JSX that embeds raw HTML templates inside JavaScript code. JSX code by itself cannot be read by the browser; it must be transpiled into traditional JavaScript using tools like Babel and webpack. While many developers understandably have initial knee-jerk reactions against it, JSX (in tandem with ES2015) has become the defacto method of defining React components.
+If you are asked this question during an interview, it is ultimately asking you to state an informed opinion towards JSX and defend it based on personal experience. Let’s cover some of the basic talking points.
+Key Talking Points
+Developers do not have to use JSX (and ES2015) to write an application in React.
+This is certainly true. Having said that, many React developers prefer to use JSX as its syntax is far more declarative and reduces overall code complexity. Facebook certainly encourages it in all of their documentation!
+Adopting JSX allows the developer to simultaneously adopt ES2015 — giving immediate access to some wonderful syntactic sugar.
+ES2015 introduced a variety of new features to JavaScript that makes writing large applications far easier than ever before: classes, block scoping via let, and the new spread operator are just a small portion of the additions.
+But while ES2015 is becoming more and more widespread, it still is far from widely supported by the major browsers — so you’ll need to use a tool like Babel or webpack to convert everything into legacy ES5 code.
+If you have built a React application using JSX and ES2015, be sure to speak about some specific pros or cons you encountered:
+Although it took me some time to get used to the JSX and ES2015 syntax, I discovered how much I really enjoyed using it. Specifically, I’m a big fan of…
+On the other hand, I could do without the hassle of configuring webpack and Babel. Our team ran into issues with…
+Also be sure to review the React docs on JSX Gotchas before your interview!
+Question #4: Are you familiar with Flux?
+Flux is an architectural pattern that enforces unidirectional data flow — its core purpose is to control derived data so that multiple components can interact with that data without risking pollution.
+The Flux pattern is generic; it’s not specific to React applications, nor is it required to build a React app. However, Flux is commonly used by React developers because React components are declarative — the rendered UI (View) is simply a function of state (Store data).
+
+Flux is relatively simple in concept, but in a technical interview, you’ll need to demonstrate a deep understanding of its implementation. Let’s cover of the important few discussion points.
+Description of Flux
+In the Flux pattern, the Store is the central authority for all data; any mutations to the data must occur within the store. Changes to the Store data are subsequently broadcast to subscribing Views via events. Views then update themselves based on the new state of received data.
+To request changes to any Store data, Actions may be fired. These Actions are controlled by a central Dispatcher; Actions may not occur simultaneously, ensuring that a Store only mutates data once per Action.
+The strict unidirectional flow of this Flux pattern enforces data stability, reducing data-related runtime errors throughout an application.
+Flux vs MVC
+Traditional MVC patterns have worked well for separating the concerns of data (Model), UI (View) and logic (Controller) — but many web developers have discovered limitations with that approach as applications grow in size. Specifically, MVC architectures frequently encounter two main problems:
+Poorly defined data flow: The cascading updates which occur across views often lead to a tangled web of events which is difficult to debug.
+Lack of data integrity: Model data can be mutated from anywhere, yielding unpredictable results across the UI.
+With the Flux pattern complex UIs no longer suffer from cascading updates; any given React component will be able to reconstruct its state based on the data provided by the store. The flux pattern also enforces data integrity by restricting direct access to the shared data.
+During a technical interview, it would be great to discuss the differences between the Flux and MVC design patterns within the context of a specific example:
+For example, imagine we have a “master/detail” UI in which the user can select a record from a list (master view) and edit it using an auto-populated form (detail view).
+With an MVC architecture, the data contained within the Model is shared between both the master and detail Views. Each of these views might have its own Controller delegating updates between the Model and the View. At any point the data contained within the Model might be updated — and it’s difficult to know where exactly that change occurred. Did it happen in one of the Views sharing that Model, or in one of the Controllers? Because the Model’s data can be mutated by any actor in the application, the risk of data pollution in complex UIs is greater than we’d like.
+With a Flux architecture, the Store data is similarly shared between multiple Views. However this data can’t be directly mutated — all of the requests to update the data must pass through the Action > Dispatcher chain first, eliminating the risk of random data pollution. When updates are made to the data, it’s now much easier to locate the code requesting those changes.
+Difference with AngularJS (1.x)
+UI components in AngularJS typically rely on some internal $scope to store their data. This data can be directly mutated from within the UI component or anything given access to $scope— a risky situation for any part of the component or greater application which relies on that data.
+By contrast, the Flux pattern encourages the use of immutable data. Because the store is the central authority on all data, any mutations to that data must occur within the store. The risk of data pollution is greatly reduced.
+Testing
+One of the most valuable aspects of applications built on Flux is that their components become incredibly easy to test. Developers can recreate and test the state of any React component by simply updating the store — direct interactions with the UI (with tools like Selenium) are no longer necessary in many cases.
+Popular Flux Libraries
+While Flux is a general pattern for enforcing data flow through an application, there exist many implementations from which to choose from. There are nuances between each implementation, as well as specific pros and cons to consider. In a technical interview, you should be prepared to discuss any real-world experience you have using Flux.
+For example, you might discuss:
+<Redux: perhaps the most popular Flux library today.
+Alt.js: another popular library for managing data in React applications.
+Question #5: What are stateless components?
+If React components are essentially state machines that generate UI markup, then what are stateless components?
+Stateless components (a flavor of “reusable” components) are nothing more than pure functions that render DOM based solely on the properties provided to them.
+const StatelessCmp = (props) => {
+    return (
+        <div className=”my-stateless-component”>
+            {props.name}: {props.birthday}
+        </div>
+    );
+};
+
+// ---
+ReactDOM.render(
+    <StatelessCmp name=”Art” birthday=”10/01/1980” />,
+    document.getElementById(“main”)
+);
+As you can see, this component has no need for any internal state — let alone a constructor or lifecycle handlers. The output of the component is purely a function of the properties provided to it.
+
+
+
+General Questions:
+What did you learn yesterday/this week?
+What excites or interests you about coding?
+What is a recent technical challenge you experienced and how did you solve it?
+What UI, Security, Performance, SEO, Maintainability or Technology considerations do you make while building a web application or site?
+Talk about your preferred development environment.
+Which version control systems are you familiar with?
+Can you describe your workflow when you create a web page?
+If you have 5 different stylesheets, how would you best integrate them into the site?
+Can you describe the difference between progressive enhancement and graceful degradation?
+How would you optimize a website's assets/resources?
+How many resources will a browser download from a given domain at a time?
+What are the exceptions?
+Name 3 ways to decrease page load (perceived or actual load time).
+If you jumped on a project and they used tabs and you used spaces, what would you do?
+Describe how you would create a simple slideshow page.
+If you could master one technology this year, what would it be?
+Explain the importance of standards and standards bodies.
+What is Flash of Unstyled Content? How do you avoid FOUC?
+Explain what ARIA and screenreaders are, and how to make a website accessible.
+Explain some of the pros and cons for CSS animations versus JavaScript animations.
+What does CORS stand for and what issue does it address?
+CSS Questions:
+JS Questions:
+Testing Questions:
+What are some advantages/disadvantages to testing your code?
+What tools would you use to test your code's functionality?
+What is the difference between a unit test and a functional/integration test?
+What is the purpose of a code style linting tool?
+Performance Questions:
+What tools would you use to find a performance bug in your code?
+What are some ways you may improve your website's scrolling performance?
+Explain the difference between layout, painting and compositing.
+Network Questions:
+Traditionally, why has it been better to serve site assets from multiple domains?
+Do your best to describe the process from the time you type in a website's URL to it finishing loading on your screen.
+What are the differences between Long-Polling, Websockets and Server-Sent Events?
+Explain the following request and response headers:
+Diff. between Expires, Date, Age and If-Modified-...
+Do Not Track
+Cache-Control
+Transfer-Encoding
+ETag
+X-Frame-Options
+What are HTTP methods? List all HTTP methods that you know, and explain them.
+Coding Questions:
+Question: What is the value of foo?
+var foo = 10 + '20';
+Question: How would you make this work?
+add(2, 5); // 7
+add(2)(5); // 7
+Question: What value is returned from the following statement?
+"i'm a lasagna hog".split("").reverse().join("");
+Question: What is the value of window.foo?
+( window.foo || ( window.foo = "bar" ) );
+Question: What is the outcome of the two alerts below?
+var foo = "Hello";
+(function() {
+  var bar = " World";
+  alert(foo + bar);
+})();
+alert(foo + bar);
+Question: What is the value of foo.length?
+var foo = [];
+foo.push(1);
+foo.push(2);
+Question: What is the value of foo.x?
+var foo = {n: 1};
+var bar = foo;
+foo.x = foo = {n: 2};
+Question: What does the following code print?
+console.log('one');
+setTimeout(function() {
+  console.log('two');
+}, 0);
+console.log('three');
+Fun Questions:
+What's a cool project that you've recently worked on?
+What are some things you like about the developer tools you use?
+Who inspires you in the front-end community?
+Do you have any pet projects? What kind?
+What's your favorite feature of Internet Explorer?
+How do you like your coffee?
+
+
+================= Question =============
+1. What are some of your opinions on JavaScript testing? If you were brought in as a consultant for a company that had no tests. How would you sell them on JavaScript testing and what is some advice you'd offer the engineers writing the tests?
+2. What was your favorite project you've worked on and what did you like about it.
+3. If you could add one feature or a set of features to an upcoming JavaScript specification, what would it be and why?
+4. If you could choose 3 features to include in a new JavaScript framework you were writing. What would they be and why?
+5. What is your experience of JavaScript framework? Which one is your favorite?
+6. Tell me about a technical challenging problem you had solved recently?
+7. What is the advantage and disadvantage of writing JavaScript in another language?
+
+8. How do you test your javaScript code? 
+  It depends. If it just something simple, visual or even a console.log will do. If it is something complicated, I will test it with a testing framework (such as Mocha/Chai), and test with all possible use case and data. If it is data intensive, we may have to test a large set of data, to ensure the performance. 
+================ Tech ===========
+“leaky abstraction" and "ng-repeat" "$index"
+
+What are three things set you apart from other candidate?
+What excites you about our company? 
+
+Can you share with us a code sample that you're proud of, or that you think represents an important part of your coding philosophy? Please include link or paste code below.
+Can you tell us about a hard problem you've had to solve, and how you went about solving it?
+Based on what you know about us, what would you find most interesting about working at a company like ThousandEyes?
+
+========== Interesting Question ==========
+In 150 characters or fewer, tell us what makes you unique. Try to be creative and say something that will catch our eye!
+
+
+===================
+
+#Front-end Job Interview Questions
+
+This file contains a number of front-end interview questions that can be used when vetting potential candidates. It is by no means recommended to use every single question here on the same candidate (that would take hours). Choosing a few items from this list should help you vet the intended skills you require.
+
+Note: Keep in mind that many of these questions are open-ended and could lead to interesting discussions that tell you more about the person's capabilities than a straight answer would.
+
+General Questions:
+
+• What did you learn yesterday/this week?
+• What excites or interests you about coding?
+• What is a recent technical challenge you experienced and how did you solve it?
+• What UI, Security, Performance, SEO, Maintainability or Technology considerations do you make while building a web application or site?
+• Talk about your preferred development environment.
+• Which version control systems are you familiar with?
+• Can you describe your workflow when you create a web page?
+• If you have 5 different stylesheets, how would you best integrate them into the site?
+• Can you describe the difference between progressive enhancement and graceful degradation?
+• How would you optimize a website's assets/resources?
+• How many resources will a browser download from a given domain at a time?
+• What are the exceptions?
+• Name 3 ways to decrease page load (perceived or actual load time).
+• If you jumped on a project and they used tabs and you used spaces, what would you do?
+• Describe how you would create a simple slideshow page.
+• If you could master one technology this year, what would it be?
+• Explain the importance of standards and standards bodies.
+• What is Flash of Unstyled Content? How do you avoid FOUC?
+• Explain what ARIA and screenreaders are, and how to make a website accessible.
+• Explain some of the pros and cons for CSS animations versus JavaScript animations.
+• What does CORS stand for and what issue does it address?
+
+HTML Questions:
+
+• What does a doctype do?
+• What's the difference between full standards mode, almost standards mode and quirks mode?
+• What's the difference between HTML and XHTML?
+• Are there any problems with serving pages as application/xhtml+xml?
+• How do you serve a page with content in multiple languages?
+• What kind of things must you be wary of when design or developing for multilingual sites?
+• What are data- attributes good for?
+• Consider HTML5 as an open web platform. What are the building blocks of HTML5?
+• Describe the difference between a cookie, sessionStorage and localStorage.
+• Describe the difference between <script>, <script async> and <script defer>.
+• Why is it generally a good idea to position CSS <link>s between <head></head> and JS <script>s just before </body>? Do you know any exceptions?
+• What is progressive rendering?
+• Have you used different HTML templating languages before?
+
+CSS Questions:
+
+• What is the difference between classes and IDs in CSS?
+• What's the difference between "resetting" and "normalizing" CSS? Which would you choose, and why?
+• Describe Floats and how they work.
+• Describe z-index and how stacking context is formed.
+• Describe BFC(Block Formatting Context) and how it works.
+• What are the various clearing techniques and which is appropriate for what context?
+• Explain CSS sprites, and how you would implement them on a page or site.
+• What are your favourite image replacement techniques and which do you use when?
+• How would you approach fixing browser-specific styling issues?
+• How do you serve your pages for feature-constrained browsers?
+• What techniques/processes do you use?
+• What are the different ways to visually hide content (and make it available only for screen readers)?
+• Have you ever used a grid system, and if so, what do you prefer?
+• Have you used or implemented media queries or mobile specific layouts/CSS?
+• Are you familiar with styling SVG?
+• How do you optimize your webpages for print?
+• What are some of the "gotchas" for writing efficient CSS?
+• What are the advantages/disadvantages of using CSS preprocessors?
+• Describe what you like and dislike about the CSS preprocessors you have used.
+• How would you implement a web design comp that uses non-standard fonts?
+• Explain how a browser determines what elements match a CSS selector.
+• Describe pseudo-elements and discuss what they are used for.
+• Explain your understanding of the box model and how you would tell the browser in CSS to render your layout in different box models.
+• What does * { box-sizing: border-box; } do? What are its advantages?
+• List as many values for the display property that you can remember.
+• What's the difference between inline and inline-block?
+• What's the difference between a relative, fixed, absolute and statically positioned element?
+• The 'C' in CSS stands for Cascading. How is priority determined in assigning styles (a few examples)? How can you use this system to your advantage?
+• What existing CSS frameworks have you used locally, or in production? How would you change/improve them?
+• Have you played around with the new CSS Flexbox or Grid specs?
+• How is responsive design different from adaptive design?
+• Have you ever worked with retina graphics? If so, when and what techniques did you use?
+• Is there any reason you'd want to use translate() instead of absolute positioning, or vice-versa? And why?
+
+JS Questions:
+
+• Explain event delegation
+• Explain how this works in JavaScript
+• Explain how prototypal inheritance works
+• What do you think of AMD vs CommonJS?
+• Explain why the following doesn't work as an IIFE: function foo(){ }();.
+• What needs to be changed to properly make it an IIFE?
+• What's the difference between a variable that is: null, undefined or undeclared?
+• How would you go about checking for any of these states?
+• What is a closure, and how/why would you use one?
+• What's a typical use case for anonymous functions?
+• How do you organize your code? (module pattern, classical inheritance?)
+• What's the difference between host objects and native objects?
+• Difference between: function Person(){}, var person = Person(), and var person = new Person()?
+• What's the difference between .call and .apply?
+• Explain Function.prototype.bind.
+• When would you use document.write()?
+• What's the difference between feature detection, feature inference, and using the UA string?
+• Explain Ajax in as much detail as possible.
+• What are the advantages and disadvantages of using Ajax?
+• Explain how JSONP works (and how it's not really Ajax).
+• Have you ever used JavaScript templating?
+• If so, what libraries have you used?
+• Explain "hoisting".
+• Describe event bubbling.
+• What's the difference between an "attribute" and a "property"?
+• Why is extending built-in JavaScript objects not a good idea?
+• Difference between document load event and document DOMContentLoaded event?
+• What is the difference between == and ===?
+• Explain the same-origin policy with regards to JavaScript.
+• Make this work:
+• duplicate([1,2,3,4,5]); // [1,2,3,4,5,1,2,3,4,5]
+• Why is it called a Ternary expression, what does the word "Ternary" indicate?
+• What is "use strict";? what are the advantages and disadvantages to using it?
+• Create a for loop that iterates up to 100 while outputting "fizz" at multiples of 3, "buzz" at multiples of 5 and "fizzbuzz" at multiples of 3 and 5
+• Why is it, in general, a good idea to leave the global scope of a website as-is and never touch it?
+• Why would you use something like the load event? Does this event have disadvantages? Do you know any alternatives, and why would you use those?
+• Explain what a single page app is and how to make one SEO-friendly.
+• What is the extent of your experience with Promises and/or their polyfills?
+• What are the pros and cons of using Promises instead of callbacks?
+• What are some of the advantages/disadvantages of writing JavaScript code in a language that compiles to JavaScript?
+• What tools and techniques do you use debugging JavaScript code?
+• What language constructions do you use for iterating over object properties and array items?
+• Explain the difference between mutable and immutable objects.
+• What is an example of an immutable object in JavaScript?
+• What are the pros and cons of immutability?
+• How can you achieve immutability in your own code?
+• Explain the difference between synchronous and asynchronous functions.
+• What is event loop?
+• What is the difference between call stack and task queue?
+• Explain the differences on the usage of foo between function foo() {} and var foo = function() {}
+
+Testing Questions:
+
+What are some advantages/disadvantages to testing your code?
+What tools would you use to test your code's functionality?
+What is the difference between a unit test and a functional/integration test?
+What is the purpose of a code style linting tool?
+
+Performance Questions:
+
+What tools would you use to find a performance bug in your code?
+What are some ways you may improve your website's scrolling performance?
+Explain the difference between layout, painting and compositing.
+
+Network Questions:
+
+Traditionally, why has it been better to serve site assets from multiple domains?
+Do your best to describe the process from the time you type in a website's URL to it finishing loading on your screen.
+What are the differences between Long-Polling, Websockets and Server-Sent Events?
+Explain the following request and response headers:
+Diff. between Expires, Date, Age and If-Modified-...
+Do Not Track
+Cache-Control
+Transfer-Encoding
+ETag
+X-Frame-Options
+What are HTTP methods? List all HTTP methods that you know, and explain them.
+
+Coding Questions:
+
+Question: What is the value of foo?
+var foo = 10 + '20';
+
+Question: How would you make this work?
+add(2, 5); // 7
+add(2)(5); // 7
+
+Question: What value is returned from the following statement?
+"i'm a lasagna hog".split("").reverse().join("");
+
+Question: What is the value of window.foo?
+( window.foo || ( window.foo = "bar" ) );
+
+Question: What is the outcome of the two alerts below?
+var foo = "Hello";
+(function() {
+  var bar = " World";
+  alert(foo + bar);
+})();
+alert(foo + bar);
+
+Question: What is the value of foo.length?
+var foo = [];
+foo.push(1);
+foo.push(2);
+
+Question: What is the value of foo.x?
+var foo = {n: 1};
+var bar = foo;
+foo.x = foo = {n: 2};
+
+Question: What does the following code print?
+console.log('one');
+setTimeout(function() {
+  console.log('two');
+}, 0);
+console.log('three');
+
+Fun Questions:
+
+What's a cool project that you've recently worked on?
+What are some things you like about the developer tools you use?
+Who inspires you in the front-end community?
+Do you have any pet projects? What kind?
+What's your favorite feature of Internet Explorer?
+How do you like your coffee
+
+Note from Amazon Interview
+
+How to you architect an application (such as Twitter), front-end specific
+How do you debug? How do you decrease the page load time of a React app?
+
+
+Things may need to pick up
+Axios
+FTP
+Terminal
+SSH
+Client <--> Server
+RESTful website
+Require.js
+Browserfy
+Webpack
+Lodash
+Babel
+Webpack –watch
+Webpack dev-server
+
+ES6
+On: change, blur, click
+
+Job (tech  stack / project)
+How is your day to day like? Do you need over time & weekend ? Take your work to home? What do you like and dislike about your job? 
+
+Angular – Note
+Advantages: 
+• Easy to organize
+• Easier to test
+• Two-way data binding <-> save lines of code
+• JS data structure
+
+Yeoman, Grunt, Bower
+Ng-view
+Ng-mode <-> $scope
+$complie
+$digest
+$apply
+$factory <-> $service
+$route
+minify-array
+$directive
+• link
+• controller
+• PPO
+
+========= JS Question ============
+
+1. What is the significance, and what are the benefits, of including 'use strict' at the beginning of a JavaScript source file?
+A: "use strict" enable certain Javascript code in strict mode, which execute code is a stricter standard, as oppose for JS code not strict mode. Many operations that would be allow in normal mode will throw errors in strict mode. It hold developers to write code in higher standards.  
+ 
+2. What is NaN? What is its type? How can you reliably test if a value is equal to NaN?
+A: NaN is JS object for not-a-number. It's type is "number". Unlike other object, NaN is not even equal to itself, and you have to use "isNaN" method to test if a value is NaN. 
+ 
+3. What is the way to get the status of a Checkbox?
+A: You can use jQuery
+
+4. What is the difference between .call() and .apply()?
+A: They are different way to invode of function. "call()" need to separate argument separatly, "apply()" need to put argument in to an array or array-liked object.
+ 
+5. Explain the unshift() method ?
+A: the "unshift()" method as element(s) in front of the original elements of an array. Alert: this is an expensive operation, as oppose to push() and pop()
+ 
+6. How will you replace all occurrences of a string in JavaScript?
+A: If the input is a string, you can user "string.replace()" with a Regex; if the input is a array of object, you can loop through each element, to check and replace. 
+ 
+7. How does the <Array()> differ from <[]> while creating a JavaScript array?
+A: Array() create a new instance of the JS "Array" class, while [] create a new empty array. 
+ 
+8. What is the naming conventions for the variables in JavaScript?
+A: camelCase
+ 
+9. What is an asynchronous programming? Why is it important in JavaScript?
+A: Asynchronous programing allow programing to run operations, without waiting for the result of long opeation. Javascript is mostly using on user facing applicaiton, it allows user to continue whatever they want to do without waiting, and update the application when information is available, to give better user experience.  
+ 
+10.  What is the difference between classical inheritance and prototypal inheritance?
+A: In classical inheritance, a instance on a child class will inherit all method from the parents class, all the way through the top of the prototype chain; while in prototypal inheriance, the prototype of a class is delegate to certain object as share common methods.
+
+
+
+
+#Front-end Job Interview Questions
+
+This file contains a number of front-end interview questions that can be used when vetting potential candidates. It is by no means recommended to use every single question here on the same candidate (that would take hours). Choosing a few items from this list should help you vet the intended skills you require.
+
+Note: Keep in mind that many of these questions are open-ended and could lead to interesting discussions that tell you more about the person's capabilities than a straight answer would.
+
+General Questions:
+
+• What did you learn yesterday/this week?
+• What excites or interests you about coding?
+• What is a recent technical challenge you experienced and how did you solve it?
+• What UI, Security, Performance, SEO, Maintainability or Technology considerations do you make while building a web application or site?
+• Talk about your preferred development environment.
+• Which version control systems are you familiar with?
+• Can you describe your workflow when you create a web page?
+• If you have 5 different stylesheets, how would you best integrate them into the site?
+• Can you describe the difference between progressive enhancement and graceful degradation?
+• How would you optimize a website's assets/resources?
+• How many resources will a browser download from a given domain at a time?
+• What are the exceptions?
+• Name 3 ways to decrease page load (perceived or actual load time).
+• If you jumped on a project and they used tabs and you used spaces, what would you do?
+• Describe how you would create a simple slideshow page.
+• If you could master one technology this year, what would it be?
+• Explain the importance of standards and standards bodies.
+• What is Flash of Unstyled Content? How do you avoid FOUC?
+• Explain what ARIA and screenreaders are, and how to make a website accessible.
+• Explain some of the pros and cons for CSS animations versus JavaScript animations.
+• What does CORS stand for and what issue does it address?
+
+HTML Questions:
+
+• What does a doctype do?
+• What's the difference between full standards mode, almost standards mode and quirks mode?
+• What's the difference between HTML and XHTML?
+• Are there any problems with serving pages as application/xhtml+xml?
+• How do you serve a page with content in multiple languages?
+• What kind of things must you be wary of when design or developing for multilingual sites?
+• What are data- attributes good for?
+• Consider HTML5 as an open web platform. What are the building blocks of HTML5?
+• Describe the difference between a cookie, sessionStorage and localStorage.
+• Describe the difference between <script>, <script async> and <script defer>.
+• Why is it generally a good idea to position CSS <link>s between <head></head> and JS <script>s just before </body>? Do you know any exceptions?
+• What is progressive rendering?
+• Have you used different HTML templating languages before?
+
+CSS Questions:
+
+• What is the difference between classes and IDs in CSS?
+• What's the difference between "resetting" and "normalizing" CSS? Which would you choose, and why?
+• Describe Floats and how they work.
+• Describe z-index and how stacking context is formed.
+• Describe BFC(Block Formatting Context) and how it works.
+• What are the various clearing techniques and which is appropriate for what context?
+• Explain CSS sprites, and how you would implement them on a page or site.
+• What are your favourite image replacement techniques and which do you use when?
+• How would you approach fixing browser-specific styling issues?
+• How do you serve your pages for feature-constrained browsers?
+• What techniques/processes do you use?
+• What are the different ways to visually hide content (and make it available only for screen readers)?
+• Have you ever used a grid system, and if so, what do you prefer?
+• Have you used or implemented media queries or mobile specific layouts/CSS?
+• Are you familiar with styling SVG?
+• How do you optimize your webpages for print?
+• What are some of the "gotchas" for writing efficient CSS?
+• What are the advantages/disadvantages of using CSS preprocessors?
+• Describe what you like and dislike about the CSS preprocessors you have used.
+• How would you implement a web design comp that uses non-standard fonts?
+• Explain how a browser determines what elements match a CSS selector.
+• Describe pseudo-elements and discuss what they are used for.
+• Explain your understanding of the box model and how you would tell the browser in CSS to render your layout in different box models.
+• What does * { box-sizing: border-box; } do? What are its advantages?
+• List as many values for the display property that you can remember.
+• What's the difference between inline and inline-block?
+• What's the difference between a relative, fixed, absolute and statically positioned element?
+• The 'C' in CSS stands for Cascading. How is priority determined in assigning styles (a few examples)? How can you use this system to your advantage?
+• What existing CSS frameworks have you used locally, or in production? How would you change/improve them?
+• Have you played around with the new CSS Flexbox or Grid specs?
+• How is responsive design different from adaptive design?
+• Have you ever worked with retina graphics? If so, when and what techniques did you use?
+• Is there any reason you'd want to use translate() instead of absolute positioning, or vice-versa? And why?
+
+JS Questions:
+
+• Explain event delegation
+• Explain how this works in JavaScript
+• Explain how prototypal inheritance works
+• What do you think of AMD vs CommonJS?
+• Explain why the following doesn't work as an IIFE: function foo(){ }();.
+• What needs to be changed to properly make it an IIFE?
+• What's the difference between a variable that is: null, undefined or undeclared?
+• How would you go about checking for any of these states?
+• What is a closure, and how/why would you use one?
+• What's a typical use case for anonymous functions?
+• How do you organize your code? (module pattern, classical inheritance?)
+• What's the difference between host objects and native objects?
+• Difference between: function Person(){}, var person = Person(), and var person = new Person()?
+• What's the difference between .call and .apply?
+• Explain Function.prototype.bind.
+• When would you use document.write()?
+• What's the difference between feature detection, feature inference, and using the UA string?
+• Explain Ajax in as much detail as possible.
+• What are the advantages and disadvantages of using Ajax?
+• Explain how JSONP works (and how it's not really Ajax).
+• Have you ever used JavaScript templating?
+• If so, what libraries have you used?
+• Explain "hoisting".
+• Describe event bubbling.
+• What's the difference between an "attribute" and a "property"?
+• Why is extending built-in JavaScript objects not a good idea?
+• Difference between document load event and document DOMContentLoaded event?
+• What is the difference between == and ===?
+• Explain the same-origin policy with regards to JavaScript.
+• Make this work:
+• duplicate([1,2,3,4,5]); // [1,2,3,4,5,1,2,3,4,5]
+• Why is it called a Ternary expression, what does the word "Ternary" indicate?
+• What is "use strict";? what are the advantages and disadvantages to using it?
+• Create a for loop that iterates up to 100 while outputting "fizz" at multiples of 3, "buzz" at multiples of 5 and "fizzbuzz" at multiples of 3 and 5
+• Why is it, in general, a good idea to leave the global scope of a website as-is and never touch it?
+• Why would you use something like the load event? Does this event have disadvantages? Do you know any alternatives, and why would you use those?
+• Explain what a single page app is and how to make one SEO-friendly.
+• What is the extent of your experience with Promises and/or their polyfills?
+• What are the pros and cons of using Promises instead of callbacks?
+• What are some of the advantages/disadvantages of writing JavaScript code in a language that compiles to JavaScript?
+• What tools and techniques do you use debugging JavaScript code?
+• What language constructions do you use for iterating over object properties and array items?
+• Explain the difference between mutable and immutable objects.
+• What is an example of an immutable object in JavaScript?
+• What are the pros and cons of immutability?
+• How can you achieve immutability in your own code?
+• Explain the difference between synchronous and asynchronous functions.
+• What is event loop?
+• What is the difference between call stack and task queue?
+• Explain the differences on the usage of foo between function foo() {} and var foo = function() {}
+
+Testing Questions:
+
+What are some advantages/disadvantages to testing your code?
+What tools would you use to test your code's functionality?
+What is the difference between a unit test and a functional/integration test?
+What is the purpose of a code style linting tool?
+
+Performance Questions:
+
+What tools would you use to find a performance bug in your code?
+What are some ways you may improve your website's scrolling performance?
+Explain the difference between layout, painting and compositing.
+
+Network Questions:
+
+Traditionally, why has it been better to serve site assets from multiple domains?
+Do your best to describe the process from the time you type in a website's URL to it finishing loading on your screen.
+What are the differences between Long-Polling, Websockets and Server-Sent Events?
+Explain the following request and response headers:
+Diff. between Expires, Date, Age and If-Modified-...
+Do Not Track
+Cache-Control
+Transfer-Encoding
+ETag
+X-Frame-Options
+What are HTTP methods? List all HTTP methods that you know, and explain them.
+
+Coding Questions:
+
+Question: What is the value of foo?
+var foo = 10 + '20';
+
+Question: How would you make this work?
+add(2, 5); // 7
+add(2)(5); // 7
+
+Question: What value is returned from the following statement?
+"i'm a lasagna hog".split("").reverse().join("");
+
+Question: What is the value of window.foo?
+( window.foo || ( window.foo = "bar" ) );
+
+Question: What is the outcome of the two alerts below?
+var foo = "Hello";
+(function() {
+  var bar = " World";
+  alert(foo + bar);
+})();
+alert(foo + bar);
+
+Question: What is the value of foo.length?
+var foo = [];
+foo.push(1);
+foo.push(2);
+
+Question: What is the value of foo.x?
+var foo = {n: 1};
+var bar = foo;
+foo.x = foo = {n: 2};
+
+Question: What does the following code print?
+console.log('one');
+setTimeout(function() {
+  console.log('two');
+}, 0);
+console.log('three');
+
+Fun Questions:
+
+What's a cool project that you've recently worked on?
+What are some things you like about the developer tools you use?
+Who inspires you in the front-end community?
+Do you have any pet projects? What kind?
+What's your favorite feature of Internet Explorer?
+How do you like your coffee
